@@ -10,7 +10,7 @@ export class RecipeService {
   recipesChanged = new EventEmitter<Recipe[]>();
   
   private recipes: Recipe[] = [
-    new Recipe('Schnitzel', 'Very tasty', 'http://images.derberater.de/files/imagecache/456xXXX_berater/berater/slides/WienerSchnitzel.jpg', [
+    new Recipe('Schnitzel', 'Very tasty', 'http://img.welt.de/img/debatte/crop118454955/9249738615-ci3x2l-w540/Wiener-Schnitzel-mit-Zitrone-und-Kartoffelsalat.jpg', [
       new Ingredient('French Fries', 2),
       new Ingredient('Pork Meat', 1)
     ]),
