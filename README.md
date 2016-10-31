@@ -14,7 +14,7 @@
     
     Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) > 
     
-    git clone https://github.com/roeroeC0101/FE_TEST.git
+    git clone https://github.com/roecamp0101/recipebook
     
     cd FE_TEST > npm install
     
